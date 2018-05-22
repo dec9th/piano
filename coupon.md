@@ -11,6 +11,8 @@
 
 ## Coupon List
 
+대소문자 구분 합니다.
+```
 - CF01PO04HS
 
 - CF02E380V9
@@ -40,4 +42,4 @@
 - PL66PR7R9U
 
 - OC322POHQO
-
+```
